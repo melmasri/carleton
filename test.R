@@ -1,2 +1,2 @@
 print('Hello Carleton!')
-print('Hello Mohamad was here')
+print('Hello Mohamad and Dave  waere here')
